@@ -1,6 +1,6 @@
-# SANDO drone demo
+# Autonomous UAV demo
 
-This project reproduces the dynamic-obstacle simulation from *SANDO: Safe Autonomous Trajectory Planning for Dynamic Unknown Environments* (Kondo, Tordesillas & How, MIT ACL, [arXiv:2604.07599](https://arxiv.org/abs/2604.07599)). It runs on DigitalOcean and produces a demo video.
+This simulation shows how a UAV can autonomously travel in a dynamic-obstacle simulation environment using pure Mathematics principal, instead of Machine Learning. Based on *SANDO: Safe Autonomous Trajectory Planning for Dynamic Unknown Environments* (Kondo, Tordesillas & How, MIT ACL, [arXiv:2604.07599](https://arxiv.org/abs/2604.07599)). It runs on DigitalOcean and produces a demo video.
 
 ## Result
 - **Video:** `demo/output/SANDO_demo_medium_mission.mp4` (1080p, 39 s). It shows a simulated flight through 100 obstacles, 65% of them moving.
