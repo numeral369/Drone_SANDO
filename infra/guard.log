@@ -1,0 +1,20 @@
+2026-11-11 22:53:05Z CREATED sando-t1-guardtest id=618303125 size=s-2vcpu-4gb ip=144.126.224.56 deadline=2026-11-11 22:57:31Z
+2026-11-11 23:01:11Z LEDGER reconciled sando-t1-guardtest id=618303125 cost=0,0357
+2026-11-11 23:02:23Z CREATED sando-build id=618305317 size=c-8 ip=139.59.166.179 deadline=2026-11-12 01:31:58Z
+2026-11-11 23:02:56Z build started
+2026-11-11 23:37:30Z build OK; snapshotting
+2026-11-11 23:39:19Z snapshot sando-built-v1 created
+2026-11-11 23:39:21Z DELETED sando-build id=618305317 reason=session-build-end
+2026-11-11 23:40:18Z CREATED sando-missions id=618311610 size=c-8 ip=161.35.43.7 deadline=2026-11-12 00:29:45Z
+2026-11-11 23:40:35Z missions: easy x2 (seed 0)
+2026-11-11 23:42:54Z downloaded C:\Users\teodo\Documents\Drone_SANDO\results\missions_raw\missions_20261111_234246.tgz
+2026-11-11 23:42:57Z DELETED sando-missions id=618311610 reason=session-missions-end
+2026-11-12 00:01:37Z CREATED sando-missions id=618315929 size=c-8 ip=142.93.38.149 deadline=2026-11-12 01:01:04Z
+2026-11-12 00:02:07Z re-analysing C:\Users\teodo\Documents\Drone_SANDO\results\missions_raw\x1\missions\20261111_234037_easy\easy on droplet
+2026-11-12 00:06:42Z missions: medium x3 (seed 0)
+2026-11-12 00:10:19Z missions: hard x3 (seed 0)
+2026-11-12 00:13:57Z video: recording + rendering dynamic medium
+2026-11-12 00:27:29Z downloaded C:\Users\teodo\Documents\Drone_SANDO\results\missions_raw\missions_20261112_002637.tgz
+2026-11-12 00:27:31Z DELETED sando-missions id=618315929 reason=session-missions-end
+2026-11-12 00:36:37Z CREATED sando-video id=618324152 size=c-8 ip=64.227.46.174 deadline=2026-11-12 01:16:04Z
+2026-11-12 00:51:30Z DELETED sando-video id=618324152 reason=video-session-end

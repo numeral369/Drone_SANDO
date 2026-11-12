@@ -1,0 +1,6 @@
+﻿"droplet_id","name","size","image","hourly_usd","created_utc","deadline_utc","projected_usd","destroyed_utc","cost_usd","reason"
+"618303125","sando-t1-guardtest","s-2vcpu-4gb","ubuntu-22-04-x64","0.03571","2026-11-11T22:52:35.0000000Z","2026-11-11T22:57:31.8103417Z","0.0357","2026-11-11T23:01:11.6758911Z","0.0357","deleted-outside-scripts (cloud guard?)"
+"618305317","sando-build","c-8","ubuntu-22-04-x64","0.25","2026-11-11T23:02:04.0000000Z","2026-11-12T01:31:58.1803804Z","0.75","2026-11-11T23:39:21.8154565Z","0.25","session-build-end"
+"618311610","sando-missions","c-8","sando-built-v1","0.25","2026-11-11T23:39:49.0000000Z","2026-11-12T00:29:45.4982411Z","0.25","2026-11-11T23:42:57.4728695Z","0.25","session-missions-end"
+"618315929","sando-missions","c-8","sando-built-v1","0.25","2026-11-12T00:01:09.0000000Z","2026-11-12T01:01:04.7288735Z","0.5","2026-11-12T00:27:31.3797762Z","0.25","session-missions-end"
+"618324152","sando-video","c-8","sando-built-v1","0.25","2026-11-12T00:36:08.0000000Z","2026-11-12T01:16:04.7375003Z","0.25","2026-11-12T00:51:30.0268526Z","0.25","video-session-end"
